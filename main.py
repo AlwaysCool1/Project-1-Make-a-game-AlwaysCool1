@@ -107,6 +107,20 @@ def quit_game():
 
 start_game()
 
+if False:
+  pass
+if 0:
+  pass
+if None:
+  pass
+if "":
+  pass
+
+user_input1 = int(input("Enter a number:"))
+user_input2 = int(input("Enter another number:"))
+
+
+
 
 
   
